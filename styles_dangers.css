@@ -1,0 +1,22 @@
+body {
+  background-color: #ADD8E6
+}
+h1 {
+  color: red; text-align: center;
+font-size: 100px;
+}
+p {
+  text-align: center;
+  font-size: 30px;
+  }
+a {
+  font-size: 30px;
+}
+.graphic {
+  width: 360px;
+
+
+}
+.pic-center {
+  text-align: center;
+}

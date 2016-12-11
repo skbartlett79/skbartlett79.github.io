@@ -1,0 +1,12 @@
+html
+header {
+  list-style-type: square;
+  text-align: center;
+  font: 29px georgia;
+  line-height:2.5;
+background-color: orange;
+color: white;
+margin: 12;
+padding: 9;
+border: 29;
+}
